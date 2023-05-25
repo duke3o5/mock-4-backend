@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Deepak Kumar",
+      "email": "deepakbhardwaj0805@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Kavita",
+      "email": "kavita@gmail.com",
+      "password": "0000",
+      "id": 2
+    },
+    {
+      "name": "Henry",
+      "email": "henry@gmail.com",
+      "password": "123",
+      "doctor": true,
+      "id": 5
+    },
+    {
+      "name": "Siva",
+      "email": "siva@gmail.com",
+      "password": "789",
+      "doctor": false,
+      "id": 6
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 5,
+      "fee": 150
+    },
+    {
+      "name": "Henry Cavill",
+      "image": "https://teja9.kuikr.com/i4/20230120/-93370--42102---sofa-set-for-sale-in-good-condition-VB201705171774173-ak_LWBP1117493808-1674219065.png",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Meerut",
+      "date": "2023-05-08",
+      "slots": 4,
+      "fee": 200,
+      "id": 2
+    }
+  ]
+}
